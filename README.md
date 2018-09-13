@@ -24,6 +24,6 @@ Visit [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) for
 17. Joining Data in PostgreSQL
 18. Supervised Learning with Scikit-Learn
 19. Machine Learning with the experts: School budgets
-20.Unsupervised Learning with Python
+20. Unsupervised Learning with Python
 21. Deep Learning with Python
 22. Network Analysis in Python (Part1)
