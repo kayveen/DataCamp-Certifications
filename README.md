@@ -3,7 +3,7 @@
 You can see below all the courses in the Data Scientist with Python Track.
 Visit [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python) for more informations
 
-![last certificate](https://github.com/kayveen/DataCamp-Certifications/blob/master/last.png)
+![Certificate](https://github.com/kayveen/DataCamp-Certifications/blob/master/DataScientistwithPython.png)
 
 1. Intro to python for Data Science
 2. Intermediate python for Data Science
